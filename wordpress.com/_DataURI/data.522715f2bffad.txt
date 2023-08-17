@@ -1,0 +1,1 @@
+chrome-extension://pdmlhckofhkhebmcplblcijijgjiakcm/js/colr_pickr.min.js
